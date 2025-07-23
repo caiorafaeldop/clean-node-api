@@ -12,7 +12,7 @@
       "git add"
     ]
   },
-  "husty": {
+  "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
     }

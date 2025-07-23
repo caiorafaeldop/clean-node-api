@@ -1,6 +1,7 @@
-function caio () {
-  return { a: 1 }
+function caio() {
+  return { a: 1 };
 }
 
-defeito
+defeito;
 err;
+caio;
